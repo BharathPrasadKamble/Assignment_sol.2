@@ -1,0 +1,19 @@
+﻿C++ Assignment 2| week 1
+
+
+Ans(1): Output:- 0(zero)
+
+
+Ans(2): Output:- 1  1
+
+
+Ans(3): Output:- 2
+
+
+Ans(4): (refer to screenshot.) 
+
+
+Ans(5): (refer to screenshot.)  
+
+
+Ans(6): Output:- 49
